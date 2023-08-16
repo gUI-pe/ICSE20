@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1692206919 source:/home/aluno/simas/main.cpp
+	<iostream>
+	<stdio.h>
+	"Pessoa.h"
+
+1692210332 /home/aluno/simas/Pessoa.h
+	<stdio.h>
+
+1692210315 source:/home/aluno/simas/Pessoa.cpp
+	"Pessoa.h"
+	<string.h>
+	<iostream>
+
