@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1693331275 source:/home/aluno/simasv1.3/main.cpp
+	<iostream>
+	<stdio.h>
+	"Principal.h"
+
+1693333289 /home/aluno/simasv1.3/Principal.h
+	"Pessoa.h"
+	"Universidade.h"
+
+1693331218 /home/aluno/simasv1.3/Pessoa.h
+	<stdio.h>
+	"Universidade.h"
+
+1693332575 /home/aluno/simasv1.3/Universidade.h
+	"Departamento.h"
+
+1693331185 /home/aluno/simasv1.3/Departamento.h
+
+1693332006 source:/home/aluno/simasv1.3/Pessoa.cpp
+	"Pessoa.h"
+	<string.h>
+	<iostream>
+
+1693331163 source:/home/aluno/simasv1.3/Departamento.cpp
+	"Departamento.h"
+	<string.h>
+
+1693333381 source:/home/aluno/simasv1.3/Universidade.cpp
+	"Universidade.h"
+	<string.h>
+	<iostream>
+
+1693333512 source:/home/aluno/simasv1.3/Principal.cpp
+	"Principal.h"
+	<string.h>
+	<iostream>
+
